@@ -1377,7 +1377,7 @@ nav {
   position: relative; }
 
 .navigation {
-  display: inline-block;
+  display: block;
   float: left;
   position: relative;
   margin: 0;
@@ -1399,6 +1399,8 @@ nav {
       opacity: 1; }
 
 .navigation--social {
+  display: block;
+  margin-top: 2rem;
   margin-left: 1.5em; }
   .navigation--social a {
     padding: 6px 8px 6px 9px; }
