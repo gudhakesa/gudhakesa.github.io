@@ -1383,6 +1383,7 @@ nav {
 
 .navigation__item {
   display: inline-block;
+  float: right;
   left: 50%;
   right: 50%;    
   line-height: 1em; }

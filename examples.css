@@ -271,7 +271,25 @@ em {
 }
 
 .white {
-    color: #fff;
+    color: #fff;}
+    
+#overlay1{
+  background-color: RGB(10,10,10,.4);
+  width: 100vw;
+  height: 100vh;
+  background-blend-mode: hue;
+}
+
+.description {
+    width: 70%; 
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+body {
+  background-color: lightblue;
+}
 
 /* Demos Menu
  * --------------------------------------- */
