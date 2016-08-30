@@ -1647,10 +1647,9 @@ input[type="tel"] {
       display: block; }
 
   .cover-navigation {
-    display: block;
+    display: inline-block;
     position: relative;
     text-align: center;
-    clear: left;
     width: 100%; }
     .cover-navigation .navigation {
       display: block;
