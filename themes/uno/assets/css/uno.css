@@ -1647,12 +1647,12 @@ input[type="tel"] {
       display: block; }
 
   .cover-navigation {
-    display: inline-block;
+    display: block;
     position: relative;
-    margin-left: 50%;
     width: 100%; }
     .cover-navigation .navigation {
-      display: block;
+      display: inline-block;
+         margin-left: 50%;
       width: 100%; }
       .cover-navigation .navigation li {
         width: 80%;
