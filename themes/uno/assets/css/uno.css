@@ -1383,7 +1383,8 @@ nav {
 
 .navigation__item {
   display: inline-block;
-  margin: 0 2px 0 0;
+  left: 50%;
+  right: 50%;    
   line-height: 1em; }
   .navigation__item a {
     display: block;
