@@ -1376,15 +1376,14 @@ nav {
 
 .navigation {
   display: block;
-  text-align: center;
   position: relative;
-  margin: 0;
+  margin-left: 50%;
+  margin-right: 50%;
   list-style-type: none; }
 
 .navigation__item {
-  display: block;
-    margin-top: 2rem;
-  margin-left: 1.5em;
+  display: inline-block;
+  margin: 0 2px 0 0;
   line-height: 1em; }
   .navigation__item a {
     display: block;
