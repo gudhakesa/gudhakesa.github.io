@@ -1649,7 +1649,7 @@ input[type="tel"] {
   .cover-navigation {
     display: block;
     position: relative;
-    float: left;
+    text-align: center;
     clear: left;
     width: 100%; }
     .cover-navigation .navigation {
