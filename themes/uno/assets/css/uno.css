@@ -1382,8 +1382,9 @@ nav {
   list-style-type: none; }
 
 .navigation__item {
-  display: inline-block;
-  margin: 0 2px 0 0;
+  display: block;
+    margin-top: 2rem;
+  margin-left: 1.5em;
   line-height: 1em; }
   .navigation__item a {
     display: block;
@@ -1634,6 +1635,7 @@ input[type="tel"] {
         margin: 1em auto; }
 
   .navigation-wrapper {
+    
     display: none;
     position: fixed;
     top: 42px;
