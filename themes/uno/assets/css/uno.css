@@ -1376,9 +1376,9 @@ nav {
 
 .navigation {
   display: block;
+  text-align: center;
   position: relative;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin: 0;
   list-style-type: none; }
 
 .navigation__item {
