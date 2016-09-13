@@ -1651,10 +1651,11 @@ input[type="tel"] {
   .cover-navigation {
     display: block;
     position: relative;
+    float: left;
+    clear: left;
     width: 100%; }
     .cover-navigation .navigation {
-      display: inline-block;
-         margin-left: 50%;
+      display: block;
       width: 100%; }
       .cover-navigation .navigation li {
         width: 80%;
