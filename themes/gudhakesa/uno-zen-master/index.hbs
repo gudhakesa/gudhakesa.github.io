@@ -1,0 +1,13 @@
+{{!< default}}
+
+<ol id="posts-list">
+  {{#foreach posts}}
+  <li>
+    <a href="{{url}}" title="Read more about '{{title}}'">{{title}}</a>
+    <time datetime="{{date format="DD MMM YYYY"}}">{{date format="DD MMM YYYY"}}</time>
+    <span class="post tags">{{tags separator=" "}}</span>
+  </li>
+  {{/foreach}}
+</ol>
+
+{{pagination}}
