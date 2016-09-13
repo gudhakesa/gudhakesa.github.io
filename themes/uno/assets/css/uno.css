@@ -1382,8 +1382,8 @@ nav {
   list-style-type: none; }
 
 .navigation__item {
-  display: inline-block;
-  margin-left: auto;
+  display: block;
+  margin-left: 50%;
   margin-right: auto;
   line-height: 1em; }
   .navigation__item a {
