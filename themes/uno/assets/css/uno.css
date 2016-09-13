@@ -1382,10 +1382,11 @@ nav {
   list-style-type: none; }
 
 .navigation__item {
-  display: block;
-  margin-left: 50%;
+  display: inline-block;
+  margin-left: auto;
   margin-right: auto;
-  line-height: 1em; }
+  line-height: 1em;
+   width: 100%; }
   .navigation__item a {
     display: block;
     position: relative;
