@@ -1196,6 +1196,7 @@ hr {
   margin: 0 0 5px 0;
   font-size: 2.5em;
   letter-spacing: 4px;
+     text-align: center;
   color: #FFF; }
 
 .panel-subtitle {
@@ -1683,3 +1684,8 @@ input[type="tel"] {
   .btn, .navigation__item a {
     display: block;
     margin-bottom: .4em; } }
+
+
+.white {
+    color: #fff;
+}
