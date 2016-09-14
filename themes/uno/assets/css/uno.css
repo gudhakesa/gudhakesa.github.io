@@ -1590,10 +1590,8 @@ input[type="tel"] {
     margin-left: 0; } }
 
 @media all and (min-width: 960px) {
-    .navigation__item {
+    .navigation {
         display: none; }
-    .cover-navigation--primary {
-        display: none;
     }
 }
 
