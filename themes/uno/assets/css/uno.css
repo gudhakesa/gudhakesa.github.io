@@ -1591,6 +1591,8 @@ input[type="tel"] {
 
 @media all and (min-width: 960px) {
     .navigation__item {
+        display: none; }
+    .cover-navigation--primary {
         display: none;
     }
 }
