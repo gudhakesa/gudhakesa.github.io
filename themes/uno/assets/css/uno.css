@@ -1318,8 +1318,7 @@ hr {
   padding: 10px 20px;
   border: 1px solid #e25440;
   border-radius: 20px;
-  font-size: .9em;
-  font-weight: bold;
+  font-size: .5em;
   letter-spacing: 1px;
   text-shadow: none;
   color: #e25440;
@@ -1382,7 +1381,7 @@ nav {
   list-style-type: none; }
 
 .navigation__item {
-  display: block;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   line-height: 1em; }
@@ -1391,8 +1390,7 @@ nav {
     position: relative;
     border-color: #FFF;
     color: #FFF;
-    opacity: .8; 
-    padding: 6px 8px 6px 9px;}
+    opacity: .8;}
     .navigation__item a:hover {
       color: #FFF;
       border-color: #FFF;
