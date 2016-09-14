@@ -1573,6 +1573,13 @@ input[type="tel"] {
 @media all and (min-width: 1300px) {
   .content-wrapper {
     margin-left: 530px; } }
+
+@media all and (min-width: 720px) {
+    .navigation__item a {
+        display: none;
+    }
+}
+
 @media all and (max-width: 1100px) {
   .panel-cover__logo {
     width: 70px; }
