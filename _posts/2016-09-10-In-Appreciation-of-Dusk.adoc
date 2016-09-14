@@ -1,4 +1,5 @@
 = In Appreciation of Dusk
 :hp-tags: pictures
 
+[[post-image]]
 image::https://c1.staticflickr.com/9/8408/28951120124_e74ed9f610_b.jpg[]
