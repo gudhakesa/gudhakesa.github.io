@@ -1183,6 +1183,10 @@ hr {
 .error-code {
   font-size: 6em; }
 
+.blog-button {
+    color: #fff;
+}
+
 .panel {
   display: table;
   width: 100%;
@@ -1575,7 +1579,7 @@ input[type="tel"] {
     margin-left: 530px; } }
 
 @media all and (min-width: 720px) {
-    .blog-button {
+    #blog-button {
         display: none;
     }
 }
@@ -1706,6 +1710,3 @@ input[type="tel"] {
 .white {
     color: #fff;
 }
-
-.blog-button 
-{}
