@@ -1382,7 +1382,7 @@ nav {
   list-style-type: none; }
 
 .navigation__item {
-  display: inline-block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   line-height: 1em; }
@@ -1391,7 +1391,8 @@ nav {
     position: relative;
     border-color: #FFF;
     color: #FFF;
-    opacity: .8; }
+    opacity: .8; 
+    padding: 6px 8px 6px 9px;}
     .navigation__item a:hover {
       color: #FFF;
       border-color: #FFF;
@@ -1588,12 +1589,6 @@ input[type="tel"] {
   .navigation--social {
     margin-top: 5px;
     margin-left: 0; } }
-
-@media all and (min-width: 720px) {
-    .blog-button {
-        display: none; }
-    }
-}
 
 @media all and (max-width: 960px) {
   .btn-mobile-menu {
