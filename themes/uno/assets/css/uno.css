@@ -1588,6 +1588,13 @@ input[type="tel"] {
   .navigation--social {
     margin-top: 5px;
     margin-left: 0; } }
+
+@media all and (min-width: 960px) {
+    .navigation__item {
+        display: none;
+    }
+}
+
 @media all and (max-width: 960px) {
   .btn-mobile-menu {
     display: block; }
