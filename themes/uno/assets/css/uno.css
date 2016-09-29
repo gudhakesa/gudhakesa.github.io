@@ -1450,6 +1450,7 @@ i {
 
 .post-list {
   display:block;
+    height: auto;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
