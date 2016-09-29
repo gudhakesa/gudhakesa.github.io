@@ -1442,6 +1442,12 @@ i {
   display: block;
   position: relative; }
 
+.main-post-list {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .post-list {
   display:block;
     background-position: 50%;
