@@ -1588,7 +1588,7 @@ input[type="tel"] {
   .content-wrapper {
     margin-left: 530px; } }
 
-@media all and (min-width: 720px) {
+@media all and (min-width: 960px) {
     #blogbutton {
         display: none;
     }
