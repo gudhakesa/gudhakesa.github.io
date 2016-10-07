@@ -1721,3 +1721,13 @@ input[type="tel"] {
 .white {
     color: #fff;
 }
+
+
+.headertagpics {
+    width: 130px;
+    height: 130px;
+    margin-left: 2rem;
+    margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
