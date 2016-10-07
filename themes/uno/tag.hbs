@@ -10,7 +10,7 @@
 
     <ol class="post-list">
       {{#foreach posts}}
-        <div class="headertagpics" {{#if image}} img id="post-image" src="{{{image}}}" {{/if}} ></div>
+        <div class="imageblock" {{#if image}} img id="post-image" style="background-image: url({{image}})" {{/if}} ></div>
       <li>
         <h2 class="post-list__post-title post-title"><a href="{{url}}" title="link to {{{title}}}">{{{title}}}</a></h2>
         <p class="excerpt">{{excerpt}}&hellip;</p>
