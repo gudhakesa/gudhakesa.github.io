@@ -1,0 +1,42 @@
+= Narrative Approach in Qualitative
+:hp-alt-title: understanding experience in everyday life
+:hp-tags: words, qualitative, research
+
+One of the questions frequently asked by friends and colleagues about qualitative research is always about what is it that I actually do. I often say to them that qualitative research is about understanding human experiences, and understanding the objects or things related to building human experience. Confused? I'll give you some examples then. I'll tell you a story on how I approach or dissect human experiences. Especially experiences on product consumption.
+
+Qualitative research, as a tool for developing marketing strategies aren't a new thing. It's been done since the mid 20th century by advertising agencies, consumer goods manufacturer, or service providers. And understanding the approach of qualitative, in my opinion, could be the best thing to help you develop your business, especially if your business deal a lot with the everyday consumers.
+
+I talked with many small business owners, and they often ask me for quick advice on how to make sure products deliver the best human experience. This is what I often tell them.
+
+Basically, we all have stories to tell. We buy things, we use things, we consume things like snacks and ice cream because we want to have an experience. Experience itself is a very broad term. It doesn't always talk about the good taste of the food you eat, it doesn't talk about the good texture, it doesn't talk about how good looking a fashion item you buy, and so on. Experiences are mostly about what kind of stories you want to feel for yourself while using or consuming a product.
+
+So, let's talk about a hypothetical consumer named Bob. Bob likes to eat potato chips. And me, as a qualitative researcher, or maybe people from frito-lay wants to understand more on why bob likes potato chips. It's often not enough to ask Bob about why does he like potato chips. A rationalized answer is the only think we probably get from Bob if we ask him that way. The right way to ask is actually "What is the significance of potato chips in Bob's life / daily routines / experience?".
+
+This approach is very important when qualitative researchers are faced with a consumer reality. When we are asked, why do people consume the things they consume, it will take us deeper than having to ask Bob, why does he consume potato chips, for instance.
+
+The best way to deal with this problem is through narratives. Narratives is an approach in which we believe that people always have a main theme in consuming something. Take a look at this childishly-drawn sets of boxes below:
+
+image::qual/connar.PNG[]
+
+These are the things we should figure out every time we try to understand why Bob likes potato chips. We could start our journey by putting our attention to the green box (Settings / time / occasions / scenes). We could start asking Bob on what occasions does he eat potato chips.
+
+Then we can move to the blue box (audiences). Who are there with him when he eats potato chips?
+
+But before we get to the grey box, let's move backwards to the Yellow box (Product role / attributes). We could now ask Bob, what is it about the potato chips that you enjoy, ON THAT CERTAIN OCCASION? If bob like to eat potato chips while watching the NFL night with friends, what is the allure of a bowl of potato chips? Why not ice cream instead?
+
+Constant observing and asking about potato chips with the narrative approach could give us a more comprehensive story and theme, of the significance of potato chips in Bob's life. In short, we could now understand deeply on the role of potato chips in building the experience Bob wanted. I illustrated the results below:
+
+image::qual/connar2.PNG[]
+
+So this is a very simple explanation I often give to people around me about what does a qualitative researcher does, in context of business and marketing. And to make full use of the narrative approach, there are a few things that a qualitative researcher have to keep in mind.
+
+First, let go of all judgement and bias
+Well, in order to be successful in dissecting somebody's subjective experience is to understand that they are NOT you. They experience, perceive, and make sense of the world (and things) differently than your own. What is logical for you in making a decision, could possibly not be a logical decision at all for other people. This is very important to keep in mind before you start your observation and analysis.
+
+If you're a product developer, understand that there are ways that people will use your product, and it could be a whole lot different than the first time you designed the product for. if you're a chef or a cook, understand that not everybody have the same approach to taste and textures the way you have been educated. Understanding this, will be the first step on creating the most meaningful experience for your customers.
+
+Secondly, don't take your consumers answers in face value
+Consumers don't say what they mean, and they don't mean what they say. They don't think deep enough when asked about why they like to consume / buy things. So keep challenging them. Ask them further. Throw them additional "why", confirm, and reconfirm. Be prepared that whatever they say might only applicable in certain settings, or conditions. Be open, and explore deeper into their experience. You'll unlock things you could probably never knew existed.
+
+Lastly, Observe! Observe! Observe!
+Words can mislead. Answers may lie. But the power of observation goes way beyond. Observe deeper on the way your customers deal with things, or deal with his / her world. Be sensitive to notice the things they do that you don't normally do, or vice versa. Be in the present, and keep your eyes open for habits or actions previously unknown to you. You will be able to understand his / her experience a little better.
