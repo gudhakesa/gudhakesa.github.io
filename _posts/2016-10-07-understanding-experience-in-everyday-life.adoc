@@ -30,13 +30,16 @@ image::qual/connar2.PNG[]
 
 So this is a very simple explanation I often give to people around me about what does a qualitative researcher does, in context of business and marketing. And to make full use of the narrative approach, there are a few things that a qualitative researcher have to keep in mind.
 
-First, let go of all judgement and bias
+*First, let go of all judgement and bias*
+
 Well, in order to be successful in dissecting somebody's subjective experience is to understand that they are NOT you. They experience, perceive, and make sense of the world (and things) differently than your own. What is logical for you in making a decision, could possibly not be a logical decision at all for other people. This is very important to keep in mind before you start your observation and analysis.
 
 If you're a product developer, understand that there are ways that people will use your product, and it could be a whole lot different than the first time you designed the product for. if you're a chef or a cook, understand that not everybody have the same approach to taste and textures the way you have been educated. Understanding this, will be the first step on creating the most meaningful experience for your customers.
 
-Secondly, don't take your consumers answers in face value
+*Secondly, don't take your consumers answers in face value*
+
 Consumers don't say what they mean, and they don't mean what they say. They don't think deep enough when asked about why they like to consume / buy things. So keep challenging them. Ask them further. Throw them additional "why", confirm, and reconfirm. Be prepared that whatever they say might only applicable in certain settings, or conditions. Be open, and explore deeper into their experience. You'll unlock things you could probably never knew existed.
 
-Lastly, Observe! Observe! Observe!
+*Lastly, Observe! Observe! Observe!*
+
 Words can mislead. Answers may lie. But the power of observation goes way beyond. Observe deeper on the way your customers deal with things, or deal with his / her world. Be sensitive to notice the things they do that you don't normally do, or vice versa. Be in the present, and keep your eyes open for habits or actions previously unknown to you. You will be able to understand his / her experience a little better.
