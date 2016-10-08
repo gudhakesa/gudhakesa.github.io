@@ -20,15 +20,17 @@ image::qual/connar.PNG[]
 
 These are the things we should figure out every time we try to understand why Bob likes potato chips. We could start our journey by putting our attention to the green box (Settings / time / occasions / scenes). We could start asking Bob on what occasions does he eat potato chips.
 
-Then we can move to the blue box (audiences). Who are there with him when he eats potato chips?
+Then we can move to the blue box (audiences). Who are there with him when he eats potato chips? On the grey box, we'll ask bob, what would he feel if on that certain occasion with friends (or alone), he's out of potato chips? What is the function of that particular potato chips ON that setting?
 
-But before we get to the grey box, let's move backwards to the Yellow box (Product role / attributes). We could now ask Bob, what is it about the potato chips that you enjoy, ON THAT CERTAIN OCCASION? If bob like to eat potato chips while watching the NFL night with friends, what is the allure of a bowl of potato chips? Why not ice cream instead?
+Then, let's move backwards to the Yellow box (Product role / attributes). We could now ask Bob, what is it about the potato chips that you enjoy, ON THAT CERTAIN OCCASION? If bob like to eat potato chips while watching the NFL night with friends, what is the allure of a bowl of potato chips? Why not ice cream instead?
 
-Constant observing and asking about potato chips with the narrative approach could give us a more comprehensive story and theme, of the significance of potato chips in Bob's life. In short, we could now understand deeply on the role of potato chips in building the experience Bob wanted. I illustrated the results below:
+Finally, to get to the red box, we can construct a comprehensive story on what role do potato chips play in bob's routine. And what are the feelings Bob want to attain in the companion of Frito-lay's potato chips? Constant observing and asking about potato chips with the narrative approach could give us a holistic view, of the significance of potato chips in Bob's life. In short, we could now understand deeply on the role of potato chips in building the experience Bob wanted. I illustrated the results below:
 
 image::qual/connar2.PNG[]
 
-So this is a very simple explanation I often give to people around me about what does a qualitative researcher does, in context of business and marketing. And to make full use of the narrative approach, there are a few things that a qualitative researcher have to keep in mind.
+Applied to other product categories, or services, this approach is useful to understand reasons on why people consumes the thing they consume. It's also a way to understand why people behave like they do. This is a very simple explanation I often give to people around me about what does a qualitative researcher does, in context of business and marketing. 
+
+I believe that this approach is not exclusively a qual researcher's to own. Laypeople could also adopt this approach in building experiences they desire. To make full use of the narrative approach, there are a few things that a people have to keep in mind.
 
 *First, let go of all judgement and bias*
 
