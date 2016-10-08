@@ -1731,3 +1731,12 @@ input[type="tel"] {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+
+.aboutpage {
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
