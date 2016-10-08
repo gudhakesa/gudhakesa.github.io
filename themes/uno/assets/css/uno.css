@@ -1735,8 +1735,9 @@ input[type="tel"] {
 
 .aboutpage {
     width: 50%;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10rem;
+    margin-right: auto;
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-top: 2rem;
 }
