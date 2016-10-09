@@ -12,7 +12,12 @@
       {{#foreach posts}}
       <li>
         <h2 class="post-list__post-title post-title"><a href="{{url}}" title="link to {{{title}}}">{{{title}}}</a></h2>
-          <div id="post-image" img id="post-image" {{#if image}} class="imageblock" style="background-image: url({{image}})"{{/if}}></div>
+          {{#if image}}
+        <div class="headertagpics"><a href="{{url}}" class="post-image">
+            <img src="{{image}}" alt="">
+            <h2 class="post-title">{{{title}}}</h2>
+        </a></div>
+          {{else}}
         <p class="excerpt">{{excerpt}}&hellip;</p>
         <div class="post-list__meta">
             <time datetime="{{date format="DD MMM YYYY"}}" class="post-list__meta--date date">{{date format="DD MMM YYYY"}}</time> &#8226;
