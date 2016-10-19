@@ -1,4 +1,5 @@
 = Hi, my name is Mahendra Gudhakesa.
+:hp-tags: about
 
 I am a Jakarta-based qual researcher. I graduated University majoring in Civil Engineering (don't get me started on how I got there), before finally indulge my interest in social sciences, and a horizontal career path. 
 
