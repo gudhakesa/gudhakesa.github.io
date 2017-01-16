@@ -2,14 +2,14 @@
 :hp-alt-title: an outsider's perspective of UX research and design
 :hp-tags: words, research, UX, qualitative, 
 
-## A little back story
+### A little back story
 I was previously not a person in design, software, tech, or anything related to the tech-startup culture. The term "UX Research" or "UX Design", as much as they become the buzzword of the year, didn't come to my attention until the last 12 months. I have spent my entire professional career working in qualitative research, doing research in many field like social research, cultural studies, and more specifically: developing marketing efforts for brands and companies in order to connect better with their consumers. It's easy to find my name among the people working in consumer goods companies or business consultants.
 
 What's interesting for me is the rising trend of UX (both research and design) discussions in my daily professional lives. Everything UX seem to be in people's attention nowadays. Almost every discussion with the people I met revolves around how a tech-startup now focusing on making a robust UX design, how other companies now doing UX research, or now someone we previously knew had become a self-proclaimed UX researcher.
 
 The talk about the disruption of tech-startups in the industry is what fueled the discussions. Many young industry practicioners now talk about their interest and knowledge in the UX field. My continuous work as a qual researcher, also by doing collaboration with tech-startups is the thing that had me exposed to the term "UX". It opened my journey towards understanding more from the world of UX. So the purpose of this piece, will talk a bit about an outsider's perspective in doing UX, both about research and design.
 
-## The Idea
+### The Idea
 From my understanding, the main idea of UX efforts are about integrating technology into our day of life. UX can be seen as an effort to streamline the disruption process of technology in entering the way we do our daily lives. Of course this term is a very broad definition, but let's start from there.
 
 The discipline of UX, in my opinion, begins at the question of "how will a technology (or product, or service) enter our daily lives, changing the way we do things before we knew that particular technology". The key main role of technology here is to transform our habit, our conduct, and the way we do our usual tasks, no matter how small it is possible.
@@ -22,14 +22,14 @@ This approach sounds very similar in my line of work as a market researcher and 
 
 In essence, it is my work to establish a meaningful experience for our target consumers with the product we deliver. I could safely say that the discipline of brand building is interrelated to the discipline of UX.
 
-## "What is it like to be them?"
+### "What is it like to be them?"
 My approach in doing UX research comes down to a very simple question. When you have a clear image of your target consumer, the question we should ask ourselves is "what is it like to be them?". Our task as researchers (or designers) eventually is to unearth a worldview in which our consumers / users live in. Not only unearthing those worldviews, we are also obliged to live in them, understanding their way of thinking, what motivates them,, how they live their lives, and eventually, how they are going to react when exposed to our products or services? We are required to be able to "read" people and their genuine reaction towards whatever offer we're about to make for them.
 
 I think this understanding of UX efforts is essential for every doer in the industry. Because I can't think more of the things that make a great product other than a product that empathize well with the users. A great product is a product that can create better experience for our users / consumers. The road to empathy itself, lies within our expertise.
 
 Then, the question I'm often asked, what are the tools in researching or designing a good UX? For me, I think it comes down to simple storytelling...
 
-## The importance of Steinbeck and Orwell in UX
+### The importance of Steinbeck and Orwell in UX
 For me, there is no more robust tool for a researcher to understand the consumers (or users) other than observation and storytelling.
 
 The essence of being ourselves, our identities, or constellation of values are all embedded in, well, stories. The way we share our worldviews with the world, the way we share our political beliefs, our arguments, our experiences, are all in the form of stories. Stories as one of the main observation points for qualitative researchers, doesn't only speak on individual levels, but also at cultural levels. The way societies and civilizations progress are by series of events happening, and retold in stories.
