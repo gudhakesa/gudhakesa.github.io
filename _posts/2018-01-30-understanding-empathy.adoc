@@ -11,7 +11,7 @@ I think this should make a good topic for this piece, about establishing empathy
 *An ethnographic approach on life fields & personal values*
 I believe that empathy is the byproduct of deep understanding. A holistic understanding of one's life realities, so that we could position ourselves in one's point of view. It's a discipline of internalizing other people's internal beliefs so that it could broaden our horizon of many different lifeforms. And this is something that is in line with the discipline of ethnography. Empathy then, for me as an ethnographer, is more about understanding three things: Activities, Goals, and Personal Values.
 
-image::qual/light1.jpG[]
+image::qual/Light1.jpg[]
 
 *Understanding one's activity and goals*
 Among us people in the modern age, there are three domains (or life fields) that constantly demand our attention: The domestic domain, professional domain, and leisure.
