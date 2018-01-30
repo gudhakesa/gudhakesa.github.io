@@ -9,11 +9,13 @@ Is there any structured effort in establishing empathy? How can we acquire empat
 I think this should make a good topic for this piece, about establishing empathy. Although this is a not-scholarly definitions and what-to-dos, I treat this as a quick and dirty approach to establish empathy. An informal checklist that we can use together to put ourselves more in other people's shoes. Especially useful if you're a designer, or marketer, or even some propaganda mastermind.
 
 *An ethnographic approach on life fields & personal values*
+
 I believe that empathy is the byproduct of deep understanding. A holistic understanding of one's life realities, so that we could position ourselves in one's point of view. It's a discipline of internalizing other people's internal beliefs so that it could broaden our horizon of many different lifeforms. And this is something that is in line with the discipline of ethnography. Empathy then, for me as an ethnographer, is more about understanding three things: Activities, Goals, and Personal Values.
 
 image::qual/Light1.jpg[]
 
 *Understanding one's activity and goals*
+
 Among us people in the modern age, there are three domains (or life fields) that constantly demand our attention: The domestic domain, professional domain, and leisure.
 
 Domestic domains are the life field in which we spend our resources (time, money, energy) on the people closest to us. Families, friends, house life, children, parents, and so on. I believe that we spent our time growing up from kids to adults with more emphasis on this domain.
@@ -29,6 +31,7 @@ A deep understanding on people's activity helps us to understand the realities o
 Diving deeper to these sets of activities could also enable our understanding on one's personal values.
 
 *What makes a personal value / worldview?*
+
 I think I'd like to view personal values as a set of mental beliefs that drives the direction of one's goals and achievements. I like how the movie "Inside Out" by Disney portray what they call "Island of personality". Personal values are the byproduct of those so-called "island of personality", in which it drives our decision making process and life priorities.
 
 To assess one's personal values is to assess at least the background stories behind their activities. Since when do they start doing that activity? Why those activities are chosen and done routinely? What are the factors that drives their intention to those activities?
@@ -38,6 +41,7 @@ The last question is actually quite an interesting thing to explore. Intention. 
 Exploring these factors, along with checking their background experiences that drive those beliefs are crucial in understanding why they behave like they do.
 
 *Reflections*
+
 This approach, of course, is not a one-for-all approach. Nor this is the only way to really give structure and meaning of the word "empathy". But deep exploration on these topics hopefully can give us a guide on pointing out the areas of people's lives we could touch and understand. And of course, understanding this approach is not not only helpful to understand other people, but also to stop and look at ourselves. Where are we at the moment. How did we manage to think like we do now?
 
 When we do this approach more often, we will start seeing pattern. Like, in observation of the activities in the three domain, I now realize that no people actually excel in all three domains. Out of the three domains, people usually succeeds only at two domains. When people's domestic life and professional thrive, people might think that they don't have time for leisure. When we see people who succeeded or fulfilled professionally and in leisure time. It's normal to suspect that one will not be so fulfilled in his domestic life.
