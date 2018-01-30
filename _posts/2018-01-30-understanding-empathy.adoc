@@ -1,0 +1,47 @@
+= Dissecting Empathy
+:hp-alt-title: understanding empathy
+:hp-tags: words, qualitative, research
+
+In my line of work, the word "Empathy" gets thrown out a lot. We all have quick and easy definition on what's the meaning of the word. But what is it really? What is the true measure of empathy? We heard it just as often in seminars or public talks. But what does it mean when we say that designers, creators should have empathy?
+
+Is there any structured effort in establishing empathy? How can we acquire empathy to people we're trying to reach?
+
+I think this should make a good topic for this piece, about establishing empathy. Although this is a not-scholarly definitions and what-to-dos, I treat this as a quick and dirty approach to establish empathy. An informal checklist that we can use together to put ourselves more in other people's shoes. Especially useful if you're a designer, or marketer, or even some propaganda mastermind.
+
+*An ethnographic approach on life fields & personal values*
+I believe that empathy is the byproduct of deep understanding. A holistic understanding of one's life realities, so that we could position ourselves in one's point of view. It's a discipline of internalizing other people's internal beliefs so that it could broaden our horizon of many different lifeforms. And this is something that is in line with the discipline of ethnography. Empathy then, for me as an ethnographer, is more about understanding three things: Activities, Goals, and Personal Values.
+
+image::qual/light1.jpG[]
+
+*Understanding one's activity and goals*
+Among us people in the modern age, there are three domains (or life fields) that constantly demand our attention: The domestic domain, professional domain, and leisure.
+
+Domestic domains are the life field in which we spend our resources (time, money, energy) on the people closest to us. Families, friends, house life, children, parents, and so on. I believe that we spent our time growing up from kids to adults with more emphasis on this domain.
+
+The more we get older, we assign expertise to ourselves. We do things to contribute to the world, to work, to create value, and to earn our living. These activities rest in the professional domain. It's a collection of activities and resources spent on work and making a living.
+
+Leisure, is a life field where we spend our excess resources. The things we do for our own personal entertainment. The things we enjoy doing that contributes to our day-to-day psychological well-being, some might say.
+
+To understand the life reality of others, for me, is to dive deep, look closer on one's three domains. What are the activities spent on each domain? How does one do his / her activity in those three domains? And the more important question: what do they want to achieve in each domain when they do those activities? What are the things they want to achieve when doing that?
+
+A deep understanding on people's activity helps us to understand the realities of one's life. It'll be easy for us to imagine what kind of experience one have to deal with, and what kind of struggle (s)he has on a daily basis. We could at least imagine, what are the things that give constraints to their decision making? What are the things that happen to be the foundation on their life's orbit?
+
+Diving deeper to these sets of activities could also enable our understanding on one's personal values.
+
+*What makes a personal value / worldview?*
+I think I'd like to view personal values as a set of mental beliefs that drives the direction of one's goals and achievements. I like how the movie "Inside Out" by Disney portray what they call "Island of personality". Personal values are the byproduct of those so-called "island of personality", in which it drives our decision making process and life priorities.
+
+To assess one's personal values is to assess at least the background stories behind their activities. Since when do they start doing that activity? Why those activities are chosen and done routinely? What are the factors that drives their intention to those activities?
+
+The last question is actually quite an interesting thing to explore. Intention. Psychology had explored this theme long ago with the invention of intention theory, which said that intention is driven by 3 major factors: *Subjective belief* (their personal belief on what makes one activity important doing), *significant other's belief* (their significant other's take on the importance of one activity), and *perceived behavioral control* (external factors that drive up intention of doing one activity).
+
+Exploring these factors, along with checking their background experiences that drive those beliefs are crucial in understanding why they behave like they do.
+
+*Reflections*
+This approach, of course, is not a one-for-all approach. Nor this is the only way to really give structure and meaning of the word "empathy". But deep exploration on these topics hopefully can give us a guide on pointing out the areas of people's lives we could touch and understand. And of course, understanding this approach is not not only helpful to understand other people, but also to stop and look at ourselves. Where are we at the moment. How did we manage to think like we do now?
+
+When we do this approach more often, we will start seeing pattern. Like, in observation of the activities in the three domain, I now realize that no people actually excel in all three domains. Out of the three domains, people usually succeeds only at two domains. When people's domestic life and professional thrive, people might think that they don't have time for leisure. When we see people who succeeded or fulfilled professionally and in leisure time. It's normal to suspect that one will not be so fulfilled in his domestic life.
+
+Empathy. I think it's not a tool or a word that serve us to know other people, but understanding it, also to give us opportunity to know ourselves better. We become more accepting not only to other people, but we could start tolerating things that could happen to our lives.
+
+And that's why I believe, that empathy, is more about self awareness rather than understanding others.
