@@ -1,4 +1,5 @@
 = In faith of digital
+:published_at: 2018-01-31
 :hp-alt-title: the digital blind faith
 :hp-tags: words, research, business
 
