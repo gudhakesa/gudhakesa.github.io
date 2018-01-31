@@ -1,4 +1,5 @@
 = The (post)Modern Pilgrimage
+:published_at: 2017-08-13
 :hp-alt-title: On faith and religion in local context
 :hp-tags: words
 
