@@ -1,4 +1,5 @@
 = The stoic's journal
+:published_at: 2018-01-01
 :hp-alt-title: a late night thought
 :hp-tags: words
 
