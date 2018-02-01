@@ -1,0 +1,6 @@
+= Transient
+:published_at: 2011-11-21
+:hp-tags: pictures
+
+[[post-image]]
+image::https://c2.staticflickr.com/4/3824/13641271295_09c6d88afa_b.jpg[]
