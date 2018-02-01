@@ -1,0 +1,6 @@
+= Under the shades
+:published_at: 2017-07-25
+:hp-tags: pictures
+
+[[post-image]]
+image::https://c1.staticflickr.com/9/8265/29182074861_d239401825_b.jpg[]
