@@ -19,7 +19,7 @@ So what's going on there? Well, let's study the exhibits. We all know that compa
 
 At the surface level, yes, we know this company leverage technology and online. But I think the more important matter we should look is the way the practice of motorcycle taxis work as an ongoing practice. The power of that company is actually on the established practice of the motorcycle taxis. The technology is only leveraged to make sure that the entire customer process of getting a motorcycle taxi service is paved smoother.
 
-The business is genius, because it acknowledge a behavior that existed, and the technology just scales up the entire practices. Copy it to other region, and there you have it. Big success.
+The business is genius, because it acknowledge a behavior that existed, and the technology just scales up the entire practices. And that does involve lots of work, I bet you that. Copy it to other region, and there you have it. Big success. And I believe that involves lots of work too.
 
 *Realities, realities*
 
@@ -31,11 +31,11 @@ But it turns out, sometimes, this goal is hard to achieve. Why? Let me get there
 
 The problem here is just I've seen a lot of people trying to create products or a solution just for the sake of creating a solution. And they're doing so, creating these solutions for problems that don't exist in the first place. And why do I start to feel like this is a generational problem?
 
-What happened is, people forget about the current practices. Especially the ones the target consumer is doing. One of my headaches working with young startup people now is they don't really care about the lives of their users. Their focus is more on the things they imagine the users have, without having to check whether that's a problem the user really have. Talk about failure to do market validation here. Trying to create food delivery service for bicycle couriers. Where do you think we live? China?
+What happened is, people forget about the current practices. Especially the ones the target consumer is doing. One of my headaches working with young startup people now is they don't really care about the lives of their users. They care more about valuation of their companies. Their focus is more on the things they imagine the users have, without having to check whether that's a problem the user really have. Talk about failure to do market validation here. Trying to create food delivery service for bicycle couriers in Central Java. Where do you think we live? China?
 
-The other thing is, sometimes I face people who forget that not every demographic of the user are ready for digital. Yes, I KNOW that digitalization is inevitable somehow. The future lies in digital and big data. But when can we learn that not all, I repeat, NOT ALL demographics are ready for this? At least if you create a digital product to reach this unready market, why don't we create a roadmap instead of a "digital product"?
+The other thing is, sometimes I face people who forget that not every demographic of the user are ready for digital. Yes, I KNOW that digitalization is inevitable somehow. The future lies in digital and big data. But when can we learn that not all, I repeat, NOT ALL demographics are ready for this? At least if you create a digital product to reach this unready market, why don't we create a service roadmap, instead of a "digital product"?
 
-I think, this is the most difficult part of the job. Not about creating opportunities, but having to face people whose ideologies in creating a startup business went against the fundamental of creating a user-centric product. When they're creating things that simply solve a problem that doesn't exist, the worse part of the job is actually having to tell people about it in their faces.
+I think, this is the most difficult part of the job. Not about creating opportunities, but having to face people whose ideologies in creating a startup business went against the fundamental philosophy of creating a user-centric product. When they're creating things that simply solve a problem that doesn't exist, the worse part of the job is actually having to tell people about it in their faces.
 
 *Next step forward*
 
@@ -43,7 +43,7 @@ If there is one design question I'd like to solve, I think it would be "How migh
 
 But then again, I don't blame them. The changes in this world, is just too damn fast, I presume. We've seen development of business and innovation at a rate that is faster than traditionally schooled, well-educated, middleclassmen can perceive. Who knows what are the things possible achieving in the near future. We're simply trying our best to navigate the waters of innovation steadily, with all the best knowledge we have. The future is still uncharted, and we try our best to make sense of the seas ahead based on our previous wisdoms and practices.
 
-I think it's important for us, whatever business we are in, to have a reboot at our understanding on how to create and make business work. Our understanding of business wisdom needs to change, and it needs to be the central point in our endeavor. No, your skills and experience as a back (or front) end developer won't do you any good, won't help you make good products, if you can't focus yourself on the reality of your potential users, or if you can't admit openly that your hypothesis is entirely off.
+I think it's important for us, whatever business we are in, to have a reboot at our understanding on how to create and make business work. Our understanding of business wisdom needs to change, and it needs to be the central point in our endeavor. No, your skills and experience as a back (or front) end developer won't do you any good, won't help you make good products. Especially if you can't focus yourself on the reality of your potential users, or if you can't admit openly that your hypothesis is somewhat a little off.
 
 Digital platforms are only tools. Enablers. Enablers for people to achieve something, something they are familiar of. And to understand their main motive and goals is central in creating a digital product that works seamlessly. This understanding of the end user should be the quintessence of a design discipline. And I do think we should start from there.
 
