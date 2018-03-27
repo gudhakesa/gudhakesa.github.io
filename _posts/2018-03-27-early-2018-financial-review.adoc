@@ -1,0 +1,67 @@
+= Take My Money! An early 2018 reflection on customer’s spending and the financial industry
+:hp-alt-title: early 2018 financial review
+:hp-tags: words, millennials
+
+The year 2017 has been an interesting year. I’ve managed to get my hands dirty in some financial-related products and provide guidance for various financial institutions. In between, not only from the eyes of financial industry, I also had the chance to understand deeper customers’ motivation when deciding on how they’re managing their finance, or how they want to pay for services.
+
+The projects were indeed interesting, but what I’m grateful the most is the opportunity to have a wider horizon on the finance ecosystem in this country. Me and my colleagues at Somia Customer Experience, managed to zoom in on how finances work in user level, as well as gaining a helicopter-understanding on how financial businesses now maneuvering their way to the changing markets.
+
+In 2018, although the first quarter just passed, some trends we observed seem to have bigger momentum compared to in 2017. This is mostly because we’re seeing more players going to the same direction. Customers decision making gets more diversified. They tend to be driven by motivations that are, although changing rapidly, more similar now than ever.
+
+So, this reflection will be about my observation, not only on financial industry per se, but to also highlight the changing landscapes on how customers spending habits are in the last year.
+
+# A shift on how customers pay, a change in where they shop.
+
+The emergence of payment gateways are prominent in local markets now. Marketplace and e-commerce have started serving as payment channels for things such as electricity, insurance, credit cards application, you name it. Last year, we only see one one or a couple of companies which provided this service. Today, it seems like all of these marketplace and e-commerce sites wanting to provide the same access and convenience previously provided only by mobile-banking apps.
+
+The main key to observe here is, the market is now changing. Customers’ habits and touchpoints change. More and more customer appreciate the concept of one-app-for-all-payments. They start focusing on optimizing apps with the most features, instead of downloading different apps and channels for different solutions. Customers do this kind of “constant searching” for the all-one-powerful app.
+
+From product point of view, payment channels now are getting less and less distinct between one another, and cross-business collaboration seem to be one of the most interesting area for businesses to explore. Banks, utility services, telecommunication providers, and travel aggregators now seek to collaborate to reach their customers. Be it through apps, sites, or other things. The questions now, perhaps, can be: How might we catalyze these cross-business collaboration? How can we connect a bank and a travel app to create a one-stop-solution for customers who want to order a plane ticket and manage their budgeting at the same time?And these are just some examples…
+
+Another thing worth observing: credit card solutions are now replaced by easily-obtained prepaid cards and digital wallets. We observed that this does change customers’ access to more online-based purchasing, and more international e-commerce. A friend of mine, working in a logistic company (in which he doesn’t want to be disclosed), confirms that the number of packets sent from overseas have risen since 2017 quoting more and more people are open to purchase things from overseas.
+
+Trust to international marketplace seem to be on the rise now. People are arguably more inclined to buy things online. In the year 2017, we’ve seen department store closing down its operations, retail bleeding bad. And what will come next will definitely be exciting. And we strived ourselves to constantly be a part of what will come next.
+
+This changing customers’ landscape, is only the beginning…
+
+# Convenience! Take my money!
+
+Technology promises convenience. And when convenience properly designed, customers are willing to pay a higher premium for it. Compared to a few years ago, charging the customer for a service is deemed an unsustainable business model, so companies tried their best to make use of the concept of freeconomy. Now, customers start thinking that paying for a service IS acceptable. Companies now think that charging a fee for their service, or subscription business model now a sustainable revenue stream.
+
+Netflix, iFlix, Joox, Hooq, Spotify premium, and other streaming services is a good example for this. I can’t recall my circle of friends using the term “Netflix and chill” in everyday conversation back in 2017. But now, it has been the new norm. Now, hearing an ad in midst of your spotify playlist playing can be laughed at.
+
+The idea of paying small amount of fee for a. The challenge now is in two things: Making sure that the first-time payment or onboarding to be more seamless, and maintaining good balance of usefulness and cost when designing new products.
+
+> Trial periods? Who cares? I bet businesses aren’t ready to face customers abusing the first 3 month trial and then changed their emails, or not pay at all. ~Me, ca. 2017
+
+# Financial institutions start seeking out the long tail
+
+Fintech companies and banks starting to aim for smaller-margin, but larger-scale market. Micro segments suddenly become the way to go. New products and services that defies old wisdom start to emerge and taking their place in the economy.
+
+This comes in form of different products and services. Banks starting to focus more in micro segments providing low-cap loans, emergence of curated peer-to-peer lending marketplace, or even companies providing one-stop service for customers who wants to build their own next door “warung”. The aim here is economy of scale. Making smaller margins with higher volumes.
+
+The main idea is to widen the horizon. Business brief we received often mention about “tapping into the untapped”. Banks start saying about “banking the unbanked”. The bigger goal now, is no longer about increasing market share, but more on increasing the overall pie.
+
+# A generational phenomenon
+
+Let’s talk about Millennials and Generation Z. Yes. You know they’re coming for us. I could write another lengthy observation about this generation, but I’d like to highlight a few things regarding their spending habits that are now starting to emerge, especially in urban cities.
+
+## The changing ways Millennials acquire wealth
+
+Work hard, earn hard? Think again. We’re facing an emerging generation that no longer things working and earning a monthly salary contributes that much to their wealth building. We see some of these younger segment now focuses more on NOT putting their luck in one baskets.
+
+Financial goals now diversified across goals. House ownership and family building not only the one they’re after, but entrepreneurial routes are actively chased. Diversification of financial products (or financial efforts) now the way to go. There’s no more one-product-fits all approach. Financial solutions are diversified, democratized, and evolved to serve wider activity spectrum across the customers, in hope it would maximize their earnings.
+
+## A different kinds of ‘investment’
+
+House ownership in question, we see a generation that starting to invests on thousands of travel pictures and unforgettable memories. These things are the new assets to obtain. And best yet, they don’t have to put such assets in their tax report form. This phenomenon now make the process of decision making on financial priorities became more dynamic than ever before.
+
+This phenomenon, in my experience, had caused many companies that are selling investment products challenges and roadblocks here and there. Selling financial products like insurance, investments, or long-term saving to this generation proved to be more difficult than ever before.
+
+Marketers had ideate ways on how to reach them, and I think product designers now also have to take responsibilities in designing better products that serves this generation’s dynamic
+
+## Movement towards more responsible spending
+
+Maybe this movement isn’t that visible, nor have much impact to businesses at the moment. But we’ve seen some seeds of it. For most of this generation, spending has never been easier. Millennials now have more options to put their money at.
+
+Now the challenge moves towards: how to design a more responsible and sustainable spending? Customers had expressed needs of a more balanced products that not only ease their way of spending, but also ease on terms of planning, budgeting, or simply saving their cash from themselves. How can we design products that will help them be better, more responsible future-selves?
