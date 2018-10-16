@@ -50,7 +50,7 @@ The key is not about being able to answer the question of “Why am I here, and 
 
 “How are you feeling”
 
-I’m okay, not okay. 
-I am fine, I am shattered.
-I am here, and everywhere.
-Everything, is just as it should be.
+> I’m okay, not okay. 
+> I am fine, I am shattered.
+> I am here, and everywhere.
+> Everything, is just as it should be.
