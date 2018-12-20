@@ -2,7 +2,7 @@
 :hp-alt-title: 7 Habits Qualitative Inquirers
 :hp-tags: words, qualitative, research
 
-[This article is originally published in my medium page, here!](https://medium.com/bukalapakproductdesign/the-7-habits-of-highly-effective-qualitative-inquirers-1f525b3394a4)
+[This article is originally published in my medium page, here!]
 
 I work as a UX researcher in one of the biggest tech startups in Indonesia. Being a “researcher” in a company setting like Bukalapak can quickly be associated with certain images of activities like creating research plans, going to fields, interviewing, doing synthesis, and so on. The word “research” itself can have lots of association. Qualitative, quantitative, surveys, interviews, observations, usability tests — these are just some of it.
 
@@ -97,3 +97,6 @@ Bringing your research to your stakeholders? Well, think like a lawyer, but don�
 These 7 principles are quintessential for a researcher in a research-driven organisation.
 
 And no matter where we work, I think there are some occasions where researchers can go astray and forget some of these principles. It’s totally normal. We might need constant reminders for this, and this is where peers and fellow researchers come to aid. I want to share these spirit to fellow researchers everywhere, and remind us that, even though it’s good to always explore outwards on what are the things you can improve, but remembering these principles are like remembering your basics.
+
+[This article is originally published in my medium page, here!]
+: https://medium.com/bukalapakproductdesign/the-7-habits-of-highly-effective-qualitative-inquirers-1f525b3394a4
