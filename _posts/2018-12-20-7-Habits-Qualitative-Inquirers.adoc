@@ -1,0 +1,99 @@
+= The 7 Habits of Highly Effective Qualitative Inquirers
+:hp-alt-title: 7 Habits Qualitative Inquirers
+:hp-tags: words, qualitative, research
+
+This article is originally published in my medium page, [here!] (https://medium.com/bukalapakproductdesign/the-7-habits-of-highly-effective-qualitative-inquirers-1f525b3394a4)
+
+I work as a UX researcher in one of the biggest tech startups in Indonesia. Being a “researcher” in a company setting like Bukalapak can quickly be associated with certain images of activities like creating research plans, going to fields, interviewing, doing synthesis, and so on. The word “research” itself can have lots of association. Qualitative, quantitative, surveys, interviews, observations, usability tests — these are just some of it.
+
+The discussion about “research” often revolves around those words. It’s easy to find articles and contents about how to do good interviews, create effective surveys, and so on. But I’d like to share my thoughts about things that are more principal in executing a research effort: The basics. The fundamental habits. The things often forgotten to be included in many discussions.
+
+I’d like to narrow down my scope as well. The word “research” has lots of coverage. Qualitative? Quantitative? Foundational? Directional? Developmental? What should we talk about?
+
+The majority of my work revolves around product design and development, which usually intersects with the discipline of qualitative research. Even when dealing with the numbers, the goal is often to inject or construct a qualitative meaning out of it. So I think that’s what I’d like to write about: Some principles and habits on being a highly effective qualitative inquirer. And I got seven of them (Thank you Stephen Covey for letting me contextualise his best-selling headline!).
+
+Here it goes:
+
+## Understand, and communicate your scope
+
+When scoping our research, first of all we need to remember that it took interpretation about the current condition of our users, our businesses, or other circumstances. Scoping a research efforts often require us to select out some of the variables and conditions which (we assume) are not part of the phenomenon we want to observe and understand.
+
+It takes our effort to “translate” the business needs into inquiries. And like any other translating efforts, our audiences (especially stakeholders) can get lost too.
+
+Understanding your research scope means that we’re able to answer the question “What this research will cover?”. I think this is a no brainer. Every researchers know this.
+
+BUT. We often forget the other side of the question. We also need to be able to answer the question “What this research will NOT cover?”
+
+Being able to answer those questions, eventually, is not enough. Remember, the research scope is often your interpretation to the current condition. The next thing to do is to communicate to the stakeholders on what your research will, and will NOT cover. You don’t want to find yourself in a condition of clarifying, and explaining research scope and limitations after a research fieldwork is finished.
+
+## Keep the business goal in mind
+
+I found out that researchers are easily swayed to become conceited when delivering opinions and recommendations. I think the cause of this is because we often feel like we’re the closest to our users. We are the closest to their worldview and we bear the responsibility to inform the entire organisation about their world and realities.
+
+Well, in principle, this is true… But…
+
+I often deliver the analogy of faith and rituals. Imagine this: Most of us believe in God, or a greater being, whatever suits your cup of tea. We declare our faith to this supreme being through religion or other things, but where do we actually spend our day-to-day activities? Do we go to church 7-days-a-week? I guess not. We work, we have friends, we go out drinking, and so on. We have our daily rituals.
+
+I think that should be the same with the way we do our job. We need to keep our faith in the user, but remember that our rituals, mostly are for the business, or for our stakeholders. I think it’s a humbling reminder to say that in most cases, research are there to support a business decision. And I’d like to emphasise on the word “support”. We are, most of the time, a support function. Research may, or may not, be the only one source of truth for our stakeholders to make their decision. And this kind of humility is also one of the key to create great quality works.
+
+This is why I think it’s important for all researchers to have a mentality of business-first when doing research. It reminds us on the “why” of doing research. Keeping the business goal (and have the same understanding as your stakeholder) is key prior to looking out to your user. Common understanding on this can make research effort be more efficient in the long run.
+
+## Understand your source of qualitative data
+
+This might be the closest to a Qualitative Method 101 course. Cliche as it may sounds. But trust me, after months of doing interviews, observations, creating repetitive research plans with the same methods, often we forget about this, and go on with “methods”.
+
+Source of qualitative data is damn important. If you’re ask to measure or approximate the length of an item, we have units of cm, mm, km, miles, and so on. The same goes to qualitative data. It’s damn important for us to determine units of analysis as well from the start. What are the things we want to observe or get from them that can prove or disprove our research hypothesis?
+
+And this, when done right, can have a positive implication throughout a research process. From determining participants criteria, recruitment methods, and determining activities or discussion guides when going to the field. So remember this! Talk and consult with other fellow researchers. Keep a book if you might. Keep reminding yourself on how to do this right.
+
+> I’m not going to talk much details about how to do this well, as it will cover another medium post, if not an academic curriculum.
+
+## Remember the importance of communicating context
+
+Bringing data from the field to the board room is one of the most difficult task to do. The success of your interpretation lies in the capacity of the audience to receive those information accordingly. And often times, context got lost, and insights aren’t successfully received (or aren’t successfully implemented).
+
+So I’d like to talk about the importance of documentation. I know not every research team are blessed with endless budget and a crew of documentary filmmakers on their team, but I think it’s worth to remind us that it’s still our responsibility to do whatever we can.
+
+Visual aid like pictures and audio can deliver the job well most of the times. And thanks to smartphones, I don’t think this should be an issue anymore. So, take photos, videos, audios, whatever raw data you can get, as much as you can. You’ll thank yourself later when you get to reporting stage.
+
+## Keep qualitative data, qualitative
+
+Yes, another Qualitative Method 101. We often heard this:
+
+> How many participants said that? What are the percentage of the people who said they didn’t like using our products?
+
+Oh f**k. This is indeed a qualitative researcher’s nightmare. But worse, we’re easily swayed to answer that question with a factual answer. “Well, at least 3 out of total of 12 participants said that.”, we answer. And then the product manager would just go on believing that at least 25% of the population behaves like those 3 people we met.
+
+This is also our responsibility: Making sure that the answer we give to the stakeholders, are also in line with what our intention was at the first place. When faced with a “how many participants” question, I always end up asking them back: “Well, what do you want to get out of that number? What does that gonna tell you? I’d like to clarify that first…”
+
+Quantifying a qualitative data, is just fruitless. So keep this on top of your mind, especially when you’re presenting your findings to the board members. And when the question arise, the best way to go is to remind the stakeholders about the scope and limitations of the research (remember point 1?)
+
+Qualitative research don’t aim at all to give approximation of numbers whatsoever. The main theme is to bring the black swan on the table, and remind them that they can no longer say that all swans are white! And I don’t really give a damn on how many swans are black. I’m here to remind you that the existence of this black swan, can help us to redefine a theme that we should think about when dealing with our product devs. Period.
+
+## Value data from previous research endeavours. They are still data
+
+Researchers, eventually are like pilots. The more flight hours (or field-hours) they clock in, the more they are valued.
+
+In research context, the reality is we often swayed to formulate new research topics and methods. We scope our problems, and then we determine the best methods to do so, repeating the data collection endeavours we’ve done in the past.
+
+I’m not saying there’s nothing wrong with that. But I personally believe that it’s rather uneconomical to do so. Yes, it’s important for us to always learn something new in our research. But I don’t think it should be at the cost of repeating things we have done.
+
+There is also a downside to this. Not all previous data are apple to apple with whatever we want to get. This is also something to keep in mind. The best thing is to remember principle number 3: We should understand the source of qualitative data. We can use previous data only when it is within the same domain of qualitative data and context.
+
+## Sometimes it’s better to increase doubt, rather than to present facts
+
+I’d like to dedicate this habit especially in presenting and defending your research result to your stakeholder.
+
+I meant it when I say it’s better to increase their doubt. I often found myself answering stakeholder’s questions with another set of questions. Research presentation can get escalated into series of Q&A, clarifying thought processes, and building arguments.
+
+I’d like to emphasise on the “building arguments” part. It’s important to remember that when people ask questions, they’re also expressing their beliefs. Difference in belief can also resulted in different understanding of research data. So this is why I say that there are times when presenting all your data can be fruitless: It’s because the other party have different logic in processing those data. By doing this, we could find flaws in stakeholder’s argument, and see if we can fill that gap. But also, there’s always a possibility of us being the wrong one. This is why mutual understanding and series of building arguments are worth to try.
+
+This is the key of answering questions with another questions. We’re actually building better arguments, both ways, and finding the arguments where we can all agree of. This is the main job of a researcher in an organisation. Not a fact-checker, but also an equal thought partner.
+
+Bringing your research to your stakeholders? Well, think like a lawyer, but don’t act like one. You’re not defending anything, you’re looking for common understanding, and help everyone (you, me, stakeholders, etc.) build better arguments.
+
+# Making it work — The importance of teamwork
+
+These 7 principles are quintessential for a researcher in a research-driven organisation.
+
+And no matter where we work, I think there are some occasions where researchers can go astray and forget some of these principles. It’s totally normal. We might need constant reminders for this, and this is where peers and fellow researchers come to aid. I want to share these spirit to fellow researchers everywhere, and remind us that, even though it’s good to always explore outwards on what are the things you can improve, but remembering these principles are like remembering your basics.
